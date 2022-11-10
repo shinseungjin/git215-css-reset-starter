@@ -145,6 +145,9 @@ h2{
     margin-inline-end: 0px;
     font-weight: bold;
 }
+h3{
+    margin: 1em 0;
+}
 /* ----- NAVIGATION STYLES ----- */
 nav{
     width: 800px;
